@@ -1,9 +1,9 @@
 //============================================================================
 // Name        : NaiveBayes.cpp
-// Author      : 
+// Author      : Binki
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : A naive bayes classifier for sentiment analysis on movie reviews
 //============================================================================
 
 #include<stdio.h>
