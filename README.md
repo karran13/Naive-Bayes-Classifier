@@ -1,14 +1,14 @@
 # Naive-Bayes-Classifier
 A naive bayes classifier to classify the sentiment of a movie review
 
-Implemented Algorithms:
+**Implemented Algorithms:**
 1.	Naïve Bayes Algorithm
 2.	Binary Naïve Bayes Algorithm 
 3.	Naïve Bayes with stop-word elimination
 
-Performance Analysis of the algorithms:
+**Performance Analysis of the algorithms:**
 
-Naïve Bayes Algorithm
+**Naïve Bayes Algorithm**
 
 Measures of performance:
 For class 1 (positive ratings):
@@ -31,7 +31,7 @@ For class 2 (negative ratings):
 
 •	F measure: 83.511%
 
-Binary Naïve Bayes
+**Binary Naïve Bayes**
 
 We used a binary approach to word frequencies for each document.
 
@@ -58,7 +58,7 @@ For class 2 (negative ratings):
 •	F measure: 83.421%
 
 
-Naïve Bayes with stop word elimination
+**Naïve Bayes with stop word elimination**
 
 We nullified the frequencies of ‘stop-words’. The stop words were decided based on ‘Default English Stop words list’ from the website. 
 
